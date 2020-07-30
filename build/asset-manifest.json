@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bfd7a3a6.chunk.css",
+    "main.js": "/static/js/main.2b4c66a3.chunk.js",
+    "main.js.map": "/static/js/main.2b4c66a3.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19a7b5ff.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19a7b5ff.js.map",
+    "static/js/2.893073f0.chunk.js": "/static/js/2.893073f0.chunk.js",
+    "static/js/2.893073f0.chunk.js.map": "/static/js/2.893073f0.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a2a54048f6de0d8179a5a6e7bae407a8.js": "/precache-manifest.a2a54048f6de0d8179a5a6e7bae407a8.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.bfd7a3a6.chunk.css.map": "/static/css/main.bfd7a3a6.chunk.css.map",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/Srisai 4.JPG": "/static/media/Srisai 4.0c0951c8.JPG",
+    "static/media/SrisaiNachuriResumeMay2020.pdf": "/static/media/SrisaiNachuriResumeMay2020.685cfc5d.pdf",
+    "static/media/Storefront.jpg": "/static/media/Storefront.d19485b1.jpg",
+    "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
+    "static/media/skill.svg": "/static/media/skill.34409398.svg",
+    "static/media/sms2.png": "/static/media/sms2.db54c7ef.png",
+    "static/media/TalkCard.css": "/static/media/talksCardBack.de3da806.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a7b5ff.js",
+    "static/js/2.893073f0.chunk.js",
+    "static/css/main.bfd7a3a6.chunk.css",
+    "static/js/main.2b4c66a3.chunk.js"
+  ]
+}
