@@ -1,22 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.129a1a07.chunk.css",
-    "main.js": "/static/js/main.eba40fa3.chunk.js",
-    "main.js.map": "/static/js/main.eba40fa3.chunk.js.map",
+    "main.css": "/static/css/main.3b4cce3d.chunk.css",
+    "main.js": "/static/js/main.e00fbb5a.chunk.js",
+    "main.js.map": "/static/js/main.e00fbb5a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.19a7b5ff.js",
     "runtime-main.js.map": "/static/js/runtime-main.19a7b5ff.js.map",
-    "static/js/2.2921ee1a.chunk.js": "/static/js/2.2921ee1a.chunk.js",
-    "static/js/2.2921ee1a.chunk.js.map": "/static/js/2.2921ee1a.chunk.js.map",
+    "static/js/2.5224bfe8.chunk.js": "/static/js/2.5224bfe8.chunk.js",
+    "static/js/2.5224bfe8.chunk.js.map": "/static/js/2.5224bfe8.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.5c1291ba28d8f6a347061f83171aa92e.js": "/precache-manifest.5c1291ba28d8f6a347061f83171aa92e.js",
+    "precache-manifest.2df9940b907167b0876a8b3685c74e2c.js": "/precache-manifest.2df9940b907167b0876a8b3685c74e2c.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.129a1a07.chunk.css.map": "/static/css/main.129a1a07.chunk.css.map",
+    "static/css/main.3b4cce3d.chunk.css.map": "/static/css/main.3b4cce3d.chunk.css.map",
     "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/EECSLogo.jpg": "/static/media/EECSLogo.0ebad29c.jpg",
     "static/media/Srisai 4.JPG": "/static/media/Srisai 4.0c0951c8.JPG",
     "static/media/SrisaiNachuriResumeMay2020.pdf": "/static/media/SrisaiNachuriResumeMay2020.685cfc5d.pdf",
     "static/media/Storefront.jpg": "/static/media/Storefront.d19485b1.jpg",
     "static/media/bmun-logo-white-on-blue.png": "/static/media/bmun-logo-white-on-blue.b7d98cb9.png",
     "static/media/contactMail.png": "/static/media/contactMail.d6d4086f.png",
+    "static/media/csmLogo.png": "/static/media/csmLogo.5a0f794b.png",
     "static/media/graphingCalc.jpg": "/static/media/graphingCalc.07e10aa4.jpg",
     "static/media/logo.svg": "/static/media/logo.25bf045c.svg",
     "static/media/skill.svg": "/static/media/skill.34409398.svg",
@@ -25,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.19a7b5ff.js",
-    "static/js/2.2921ee1a.chunk.js",
-    "static/css/main.129a1a07.chunk.css",
-    "static/js/main.eba40fa3.chunk.js"
+    "static/js/2.5224bfe8.chunk.js",
+    "static/css/main.3b4cce3d.chunk.css",
+    "static/js/main.e00fbb5a.chunk.js"
   ]
 }
