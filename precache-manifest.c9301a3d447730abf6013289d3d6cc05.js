@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "16f39a2f1060909c1cad12f274a80bef",
+    "revision": "f8f2bf7573478d67abb148ecaf6312b2",
     "url": "/index.html"
   },
   {
-    "revision": "6ae2dd0494a0485ac077",
+    "revision": "ac006040faf8257ab44d",
     "url": "/static/css/main.3b4cce3d.chunk.css"
   },
   {
-    "revision": "277798646da3343d7547",
-    "url": "/static/js/2.5224bfe8.chunk.js"
+    "revision": "c7b3ed14ec1c7bf77526",
+    "url": "/static/js/2.f9aac35a.chunk.js"
   },
   {
-    "revision": "6ae2dd0494a0485ac077",
-    "url": "/static/js/main.e00fbb5a.chunk.js"
+    "revision": "ac006040faf8257ab44d",
+    "url": "/static/js/main.bf952b37.chunk.js"
   },
   {
     "revision": "ac5ba503f516e69e7d8a",
@@ -26,6 +26,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "0ebad29cc48a87407bc72646ab332d9d",
     "url": "/static/media/EECSLogo.0ebad29c.jpg"
+  },
+  {
+    "revision": "8ccae60505a2086654795ed069697c91",
+    "url": "/static/media/GradescopeLogo.8ccae605.jpg"
   },
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
